@@ -1,10 +1,10 @@
 # FlapBird
 First unity project
 
-TODO:
+TODO:  
 fix pipe/cloud layering  
 add pause screen  
 
-TODONE:
+TODONE:  
 make game  
 add clouds  
