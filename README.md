@@ -2,5 +2,9 @@
 First unity project
 
 TODO:
-add clouds
+fix pipe/cloud layering
 add pause screen
+
+TODONE:
+make game
+add clouds
